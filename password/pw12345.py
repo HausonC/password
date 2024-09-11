@@ -1,5 +1,6 @@
 password = 'a12345'
 y = 3 # input times limitation
+# while True
 while y > 0:
 	pwd = input ('please input password: ')
 	if pwd == password:
